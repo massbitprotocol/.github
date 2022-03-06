@@ -1,7 +1,6 @@
-<p align="center"><a href="https://massbit.io" target="_blank"><img alt="" title="" src="../massbit.png" width="100%">
+<p align="center"><a href="https://massbit.io" target="_blank"><img alt="" title="" src="https://raw.githubusercontent.com/massbitprotocol/.github/master/massbit.png" width="100%">
 </a>
 </p>
-
 
 [![Live on Testnet](https://img.shields.io/badge/Massbit%20Route-Live%20on%20Testnet-blue)](https://blog.massbit.io/massbitroute-whitelist-is-open/)
 [![Follow us!](https://img.shields.io/twitter/follow/massbitprotocol?color=blue&label=Follow%20%40massbitprotocol&style=flat)](https://twitter.com/massbitprotocol)
