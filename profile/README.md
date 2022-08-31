@@ -4,7 +4,7 @@
 
 [![Live on Testnet](https://img.shields.io/badge/Massbit%20Route-Live%20on%20Testnet-blue)](https://blog.massbit.io/massbitroute-whitelist-is-open/)
 [![Follow us!](https://img.shields.io/twitter/follow/massbitprotocol?color=blue&label=Follow%20%40massbitprotocol&style=flat)](https://twitter.com/massbitprotocol)
-[![Discord](https://img.shields.io/badge/-Discord-%09%237289da)](https://discord.com/invite/massbitglobal)
+[![Discord](https://img.shields.io/badge/-Discord-%09%237289da)](https://discord.com/invite/5ePzAEFNHZ)
 
 ## MassBit
 
